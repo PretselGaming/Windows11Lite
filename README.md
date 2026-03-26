@@ -4,7 +4,7 @@ You can download on: Windows
 - 8.1 
 - 10
 - 11
-<pre>Other OS:<pre>
+<pre>Other OS:</pre>
 - MacOS Tahoe and newer
 - Linux 6.2 and newer
 - Android 2.2 Froyo
