@@ -5,7 +5,9 @@ You can download on: Windows
 - 10
 - 11
 Other OS:
-- 
+- MacOS Tahoe and newer
+- Linux 6.2 and newer
+- Android 2.2 Froyo
 ![Available in](availibility.png)
 ![Homescreen](Homescreen%20EN.png)
 ![Windows 11 Lite](1.png)
