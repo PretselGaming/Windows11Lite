@@ -1,9 +1,9 @@
 # Windows11Lite
 You can download on: Windows
--8 
--8.1 
--10
--11
+- 8 
+- 8.1 
+- 10
+- 11
 Other OS:
 - 
 ![Available in](availibility.png)
