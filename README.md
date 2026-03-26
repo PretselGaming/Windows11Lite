@@ -8,8 +8,10 @@ You can download on: Windows
 - MacOS Tahoe and newer
 - Linux 6.2 and newer
 - Android 2.2 Froyo
+<pre>Availability</pre>
 ![Available in](availibility.png)
 ![Homescreen](Homescreen%20EN.png)
+<pre>Icons</pre>
 ![Windows 11 Lite](1.png)
 ![Windows 11 Lite Dark](2.png)
 ![Windows 11 Home Lite](3.png)
