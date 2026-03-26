@@ -1,5 +1,5 @@
 # Windows11Lite
-![Homescreen English](Homescreen EN.png)
+![Homescreen](Homescreen%20EN.png)
 ![Windows 11 Lite](1.png)
 ![Windows 11 Lite Dark](2.png)
 ![Windows 11 Home Lite](3.png)
