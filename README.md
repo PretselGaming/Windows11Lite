@@ -1,4 +1,5 @@
 # Windows11Lite
+![Available in](availibility.png)
 ![Homescreen](Homescreen%20EN.png)
 ![Windows 11 Lite](1.png)
 ![Windows 11 Lite Dark](2.png)
