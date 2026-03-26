@@ -1,4 +1,5 @@
 # Windows11Lite
+You can download on: Windows 8 8.1 10 and 11
 ![Available in](availibility.png)
 ![Homescreen](Homescreen%20EN.png)
 ![Windows 11 Lite](1.png)
