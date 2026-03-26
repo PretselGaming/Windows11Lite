@@ -1,4 +1,4 @@
-# Windows11Lite
+# Windows 11 Lite
 <pre>You can download on:</pre>
 - Windows 8 
 - Windows 8.1 
